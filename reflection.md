@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Mary
+Sudent Email:  Daniel
 
 ## Instructions
 
@@ -22,4 +22,6 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+Now that I’ve completed the assignment, I’ve learned how to extract data, particularly prices, from a webpage using regular expressions and string manipulation techniques. While I became more comfortable with these methods, I still find it challenging to handle inconsistencies in data formatting, such as variations in how prices are displayed. I struggled with cases where the data didn’t follow the expected pattern, and it took some time to adjust my logic for edge cases. I need more practice with regular expressions and data cleaning techniques to better manage these inconsistencies. Going forward, I plan to focus on refining my skills in web scraping and working with more complex data structures.
+
 
